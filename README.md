@@ -1,6 +1,6 @@
 # Mayank Sinha
 
-## ```About```
+# ```About```
 8.5 years of Backend Engineering experience in building highly scalable distributed systems from scratch. Expertise in building out scalable microservices to support high-volume businesses. Areas of interest include, but not limited to: Service Oriented Architecture, Microservices, System Design, Clean Code, REST API design, SQL and NoSQL Databases, Queues, Kafka, Caching (Redis), Design Patterns, Java.
 
 _LinkedIn_ - [https://www.linkedin.com/in/msinha06/]
@@ -8,7 +8,7 @@ _Github_ - [https://www.github.com/mayank06]
 _Email_ - [mayank06sinha@gmail.com]
 
 
-## ```EXPERIENCE```
+# ```EXPERIENCE```
 ### **Senior Software Engineer @ Walmart [Oct 2021 – Present]**
 - Developed a **low-latency** (< 15 milliseconds response time) coupon management microservice for Cloud Powered Checkout solution and wrote server **REST** Api’s on **Vert.x** to serve traffic from **3000+** Walmart stores.
 - Working on the shopping cart service in **Java/JEE** for a **multi-tenant** cloud checkout solution to serve traffic from Walmart stores.
@@ -32,18 +32,18 @@ _Email_ - [mayank06sinha@gmail.com]
 - Developed multiple POC’s in Java/JEE for the business clients in healthcare sector.
 
 
-## ```LANGUAGES & TECHNOLOGIES```
+# ```LANGUAGES & TECHNOLOGIES```
 - Programming Languages: Java, Python
 - Databases: MS SQL Server, Couchbase
 - Tools & Technologies: Spring, Spring Boot, Redis, Flask, Vert.x, Kafka, K8s, Docker, Azure, Maven, Git, Jenkins, JSON
 - Other: Distributed Systems, Microservices
 
 
-## ```EDUCATION```
-B.E. in Computer Science & Engineering | CGPA: 8.36 | Sep 2009 – Jun 2013 | Siddaganga Institute of Technology, Tumkur, India
+# ```EDUCATION```
+- B.E. in Computer Science & Engineering | CGPA: 8.36 | Sep 2009 – Jun 2013 | Siddaganga Institute of Technology, Tumkur, India
 
 
-## ```AWARDS```
+# ```AWARDS```
 - Associate of the month (Walmart): rewarded for an impactful performance in the project.
 - Bravo award (Walmart): recognized for outstanding performance in the project.
 - On spot award (TCS): recognized for developing reusable components and outstanding performance in the project.
