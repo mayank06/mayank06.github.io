@@ -40,7 +40,7 @@ _Email_ - [mayank06sinha@gmail.com]
 
 
 # ```EDUCATION```
-- B.E. in Computer Science & Engineering | Sep 2009 – Jun 2013 | Siddaganga Institute of Technology, Tumkur, India
+- **B.E. in Computer Science & Engineering** | Siddaganga Institute of Technology, Tumkur, India | [Sep 2009 – Jun 2013] 
 - CGPA: 8.36
 
 # ```AWARDS```
