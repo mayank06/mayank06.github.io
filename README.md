@@ -43,7 +43,7 @@ Pune, India | Oct 2013 – Dec 2016
 
 
 # ```EDUCATION```
-- **Degree**: **B.E. in Computer Science & Engineering**
+- **Degree**: B.E. in Computer Science & Engineering
 - **College**: Siddaganga Institute of Technology, Tumkur, India
 - **Batch**: Sep 2009 – Jun 2013
 - **CGPA**: 8.36
