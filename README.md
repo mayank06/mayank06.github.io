@@ -1,4 +1,3 @@
-# Mayank Sinha
 
 # ```About```
 8.5 years of Backend Engineering experience in building highly scalable distributed systems from scratch. Expertise in building out scalable microservices to support high-volume businesses. Areas of interest include, but not limited to: Service Oriented Architecture, Microservices, System Design, Clean Code, REST API design, SQL and NoSQL Databases, Queues, Kafka, Caching (Redis), Design Patterns, Java.
